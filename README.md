@@ -1,5 +1,3 @@
-Custom License (Modified MIT License)
-
 Copyright (c) 2025 github@c1r5
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software for personal, educational, or non-commercial purposes only, subject to the following conditions:
